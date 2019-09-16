@@ -6,7 +6,7 @@
 
 
 <div align="center">
-Mini weather app using https://openweathermap.org/ API and Bootstrap. Credit to https://www.youtube.com/watch?v=P0vsGO4svUM for the tutorial.
+  Mini weather app using <a href="https://openweathermap.org/" target="_blank"> Open Weather Map API </a> and Bootstrap. Credit to <a href="https://www.youtube.com/watch?v=P0vsGO4svUM" target="_blank"> Hamza Mirza </a> for the tutorial.
   <br/>DEMO: https://www.youtube.com/watch?v=P0vsGO4svUM&feature=youtu.be&t=724
 </div>
 
